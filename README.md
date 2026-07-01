@@ -46,7 +46,7 @@ Audio is extracted and played in parallel using Python’s threading, ensuring s
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/video-to-ascii.git
+git clone https://github.com/JAIMNBIDU/video-to-ascii.git
 cd video-to-ascii
 
 Install the dependencies:
