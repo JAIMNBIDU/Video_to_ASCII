@@ -46,8 +46,8 @@ Audio is extracted and played in parallel using Python’s threading, ensuring s
 Clone the repository:
 
 ```bash
-git clone https://github.com/JAIMNBIDU/video-to-ascii.git
-cd video-to-ascii
+git clone https://github.com/JAIMNBIDU/Video_to_ASCII.git
+cd Video_to_ASCII
 
 Install the dependencies:
 pip install opencv-python numpy moviepy
